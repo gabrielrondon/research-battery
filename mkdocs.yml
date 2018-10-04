@@ -1,0 +1,30 @@
+# Project information
+site_name: EV Batteries
+site_description: 'Our content about batteries'
+site_author: 'ft, gr'
+site_url: 'ev'
+
+# Repository
+repo_name: 'research-battery'
+repo_url: 'https://github.com/gabrielrondon/research-battery'
+
+# Copyright
+copyright: '2018-'
+
+# Configuration
+nav:
+ - Home: index.md
+ - About: about.md
+
+# Theme
+theme:
+  name: 'material'
+  language: 'en'
+  palette:
+    primary: 'blue grey'
+    accent: 'indigo'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+#  logo: 'assets/images/logo.svg'
+#    favicon: 'assets/images/favicon.ico'
